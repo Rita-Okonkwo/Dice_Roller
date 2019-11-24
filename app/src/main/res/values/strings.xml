@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="_1">1</string>
+    <string name="first_dice">First rolling dice</string>
+    <string name="instructions">Instruction</string>
+    <string name="instruction_text">Hello!\nUse this virtual dice to play your board games e.g. Ludo without the need of a physical dice</string>
+</resources>
+
